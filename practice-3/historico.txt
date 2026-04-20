@@ -1,0 +1,8 @@
+  499  mkdir practice-3
+  500  cd practice-3
+  501  touch file1.txt file2.txt file3.txt
+  502  for i in {500..1500}; do echo $i >> file1.txt; done
+  503  for i in {0..499}; do echo $i >> file2.txt; done
+  504  for i in {1450..2000}; do echo $i >> file3.txt; done
+  505  cat file1.txt file2.txt file3.txt | sort -nu > zero_ate_2000.txt\n
+  506  touch historico.txt
