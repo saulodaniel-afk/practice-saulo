@@ -1,0 +1,39 @@
+mkdir home/aluno
+  245  mkdir home
+  246  cd home
+  247  mkdir aluno
+  248  ls
+  249  cd aluno
+  250  clear
+  251  mkdir diretorio1
+  252  cd diretorio1
+  253  mkdir Projetos ComandosEstudados ArquivosCriados Scripts
+  254  ls
+  255  cd ArquivosCriados
+  256  cd, ls -lha, mkdir > lista.txt
+  257  "cd, ls -lha, mkdir" > lista.txt
+  258  echo "cd, ls -lha, mkdir" > lista.txt
+  259  cat lista.txt
+  260  echo "usefull git commands: git clone, git checkout -b, git checkout, git branch, git add ., git commit -m " ", git push -u origin terra, git checkout terra -- t1.txt " > lembrar.txt 
+  261  cat lembrar.txt
+  262  ls
+  263  cat lembrar.txt
+  264  clear
+  265  cp lista.txt ../ComandosEstudados
+  266  pwd /
+  267  pwd 
+  268  cp lista.txt /Users/saulo.daniel/Documents/Projects/practice-saulo-exec/practice-1/home/aluno/diretorio1/ComandosEstudados
+  269  ls ..
+  270  cp lembrar.txt /Users/saulo.daniel/Documents/Projects/practice-saulo-exec/practice-1/home/aluno/diretorio1/ComandosEstudados
+  271  ls
+  272  ls ../Projetos
+  273  cp lembrar.txt /Users/saulo.daniel/Documents/Projects/practice-saulo-exec/practice-1/home/aluno/diretorio1/Projetos
+  274  ls
+  275  ls ../Projetos
+  276  ls ../ComandosEstudados
+  277  rm ../ComandosEstudados/lembrar.txt
+  278  cat ../ComandosEstudados/lista.txt ../Projetos/lembrar.txt > Concat.txt
+  279  rm lembrar.txt lista.txt
+  280  ls
+  281  cd ~/Documents/Projects/practice-saulo-exec/practice-1/home/aluno/diretorio1/ComandosEstudados
+  282  history > historico.txt

@@ -1,0 +1,1 @@
+usefull git commands: git clone, git checkout -b, git checkout, git branch, git add ., git commit -m  , git push -u origin terra, git checkout terra -- t1.txt 
